@@ -1,12 +1,19 @@
 {
   "name": "fornobot",
-  "version": "0.0.1",
-  "description": "fornobot dai",
+  "version": "1.0.0",
+  "description": "fornobot baby",
   "main": "main.js",
-  "repository": "https://github.com/glitchhike/fornobot.git",
-  "author": " <frescogusto@gmail.com>",
   "dependencies": {
-    "request": "~2.64.0"
-    "formidable": "~2.64.0"
-  }
+    "request": "^2.63.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glitchhike/fornobot.git"
+  },
+  "author": "<frescogusto@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitchhike/fornobot/issues"
+  },
+  "homepage": "https://github.com/glitchhike/fornobot"
 }
