@@ -1,0 +1,12 @@
+{
+  "name": "fornobot",
+  "version": "0.0.1",
+  "description": "fornobot dai",
+  "main": "main.js",
+  "repository": "https://github.com/glitchhike/fornobot.git",
+  "author": " <frescogusto@gmail.com>",
+  "dependencies": {
+    "request": "~2.64.0"
+    "formidable": "~2.64.0"
+  }
+}
